@@ -1,15 +1,11 @@
 """
 03_lifecycle_survival.py
 
-Reutilise la methodologie de ChronoRisk (Kaplan-Meier applique a un risque
-temporel) sur un probleme different : le risque de decrochage de la
-dynamique de lancement -> combien de semaines un lancement Dior met-il, en
+Utilise la méthodologie Kaplan-Meiersur  : le risque de decrochage de ladynamique de lancement -> combien de semaines un lancement Dior met-il, en
 moyenne, a perdre 50% de sa velocite de vente vs son pic ?
 
-AJOUT (v2) : la seule mesure "semaines avant demi-vie" ne dit pas quoi FAIRE.
-On ajoute donc deux dimensions business (segment, canal) et une table de
-decision qui traduit le half-life en action concrete -- c'est la question
-qu'un manager BD posera systematiquement : "comment on utilise ce chiffre ?"
+AJOUT : la seule mesure "semaines avant demi-vie" ne dit pas quoi FAIRE. On ajoute donc deux dimensions business (segment, canal) et une table de
+decision qui traduit le half-life en action concrete 
 
 Donnees : simulees (aucun jeu de donnees public de courbes de lancement
 parfum n'existe), mais la forme des courbes et les differences par segment
@@ -21,6 +17,9 @@ decroit plus lentement.
 import numpy as np
 import pandas as pd
 from lifelines import KaplanMeierFitter
+from pathlib import Path
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 np.random.seed(7)
 
@@ -98,13 +97,13 @@ print(f"\nMediane globale (semaines avant demi-vie) : {median_half_life:.1f}")
 print("\nMediane par segment :")
 for seg, med in segment_medians.items():
     print(f"  {seg}: {med:.1f} semaines")
-
-df.to_csv("/home/claude/dior-market-intelligence/data/launch_lifecycle.csv", index=False)
-survival_curve.to_csv("/home/claude/dior-market-intelligence/data/launch_survival_curve.csv", index=False)
+    
+df.to_csv(DATA_DIR / "launch_lifecycle.csv", index=False)
+survival_curve.to_csv(DATA_DIR / "launch_survival_curve.csv", index=False)
 
 import json
 curve_json = survival_curve.round(3).to_dict(orient="records")
-with open("/home/claude/dior-market-intelligence/data/survival_curve.json", "w") as f:
+with open(DATA_DIR / "survival_curve.json", "w") as f:
     json.dump({
         "curve": curve_json,
         "median_weeks": round(float(median_half_life), 1),
