@@ -1,0 +1,385 @@
+mois,region,ligne_produit,sellout_meur,sellin_meur,stock_meur,couverture_semaines
+2024-07,France,Parfum Femme,21.54,21.54,24.88,5.0
+2024-08,France,Parfum Femme,20.5,19.29,23.67,5.0
+2024-09,France,Parfum Femme,19.23,24.42,28.86,6.5
+2024-10,France,Parfum Femme,20.89,23.39,31.36,6.5
+2024-11,France,Parfum Femme,23.11,26.45,34.7,6.5
+2024-12,France,Parfum Femme,27.16,23.84,31.37,5.0
+2025-01,France,Parfum Femme,19.29,3.52,15.59,3.5
+2025-02,France,Parfum Femme,22.55,25.19,18.23,3.5
+2025-03,France,Parfum Femme,19.02,22.76,21.97,5.0
+2025-04,France,Parfum Femme,20.15,21.45,23.27,5.0
+2025-05,France,Parfum Femme,22.08,24.32,25.5,5.0
+2025-06,France,Parfum Femme,20.1,17.81,23.21,5.0
+2025-07,France,Parfum Femme,21.66,23.46,25.01,5.0
+2025-08,France,Parfum Femme,19.49,16.98,22.51,5.0
+2025-09,France,Parfum Femme,17.92,22.31,26.9,6.5
+2025-10,France,Parfum Femme,19.72,22.43,29.61,6.5
+2025-11,France,Parfum Femme,22.8,27.41,34.22,6.5
+2025-12,France,Parfum Femme,28.08,26.29,32.43,5.0
+2026-01,France,Parfum Femme,17.95,0.03,14.51,3.5
+2026-02,France,Parfum Femme,21.17,23.78,17.11,3.5
+2026-03,France,Parfum Femme,20.31,26.65,23.46,5.0
+2026-04,France,Parfum Femme,19.89,19.41,22.97,5.0
+2026-05,France,Parfum Femme,22.82,26.2,26.35,5.0
+2026-06,France,Parfum Femme,19.69,16.07,22.73,5.0
+2024-07,France,Parfum Homme,14.02,14.02,16.19,5.0
+2024-08,France,Parfum Homme,13.96,13.88,16.12,5.0
+2024-09,France,Parfum Homme,12.18,14.35,18.28,6.5
+2024-10,France,Parfum Homme,13.56,15.64,20.36,6.5
+2024-11,France,Parfum Homme,15.4,18.15,23.12,6.5
+2024-12,France,Parfum Homme,18.3,16.31,21.13,5.0
+2025-01,France,Parfum Homme,12.08,0.71,9.76,3.5
+2025-02,France,Parfum Homme,15.79,18.78,12.76,3.5
+2025-03,France,Parfum Homme,13.05,15.36,15.07,5.0
+2025-04,France,Parfum Homme,12.85,12.62,14.84,5.0
+2025-05,France,Parfum Homme,15.59,18.75,18.0,5.0
+2025-06,France,Parfum Homme,13.2,10.45,15.25,5.0
+2025-07,France,Parfum Homme,14.6,16.22,16.86,5.0
+2025-08,France,Parfum Homme,13.13,11.43,15.17,5.0
+2025-09,France,Parfum Homme,12.27,15.53,18.42,6.5
+2025-10,France,Parfum Homme,13.67,15.77,20.53,6.5
+2025-11,France,Parfum Homme,16.37,20.41,24.57,6.5
+2025-12,France,Parfum Homme,18.86,16.08,21.78,5.0
+2026-01,France,Parfum Homme,12.46,0.76,10.07,3.5
+2026-02,France,Parfum Homme,14.88,16.83,12.02,3.5
+2026-03,France,Parfum Homme,12.37,14.62,14.28,5.0
+2026-04,France,Parfum Homme,13.19,14.15,15.24,5.0
+2026-05,France,Parfum Homme,15.12,17.34,17.46,5.0
+2026-06,France,Parfum Homme,14.5,13.79,16.75,5.0
+2024-07,France,Haute Parfumerie,5.36,5.36,6.19,5.0
+2024-08,France,Haute Parfumerie,4.83,4.22,5.58,5.0
+2024-09,France,Haute Parfumerie,4.75,6.31,7.14,6.5
+2024-10,France,Haute Parfumerie,4.89,5.1,7.34,6.5
+2024-11,France,Haute Parfumerie,5.69,6.88,8.54,6.5
+2024-12,France,Haute Parfumerie,6.99,6.53,8.08,5.0
+2025-01,France,Haute Parfumerie,4.74,0.49,3.83,3.5
+2025-02,France,Haute Parfumerie,5.67,6.43,4.58,3.5
+2025-03,France,Haute Parfumerie,4.69,5.53,5.42,5.0
+2025-04,France,Haute Parfumerie,4.89,5.12,5.65,5.0
+2025-05,France,Haute Parfumerie,5.68,6.59,6.56,5.0
+2025-06,France,Haute Parfumerie,5.28,4.83,6.1,5.0
+2025-07,France,Haute Parfumerie,5.28,5.28,6.1,5.0
+2025-08,France,Haute Parfumerie,5.19,5.08,5.99,5.0
+2025-09,France,Haute Parfumerie,4.58,5.47,6.88,6.5
+2025-10,France,Haute Parfumerie,4.82,5.17,7.23,6.5
+2025-11,France,Haute Parfumerie,6.08,7.97,9.12,6.5
+2025-12,France,Haute Parfumerie,7.27,6.55,8.4,5.0
+2026-01,France,Haute Parfumerie,4.62,0.0,3.78,3.5
+2026-02,France,Haute Parfumerie,5.76,6.65,4.66,3.5
+2026-03,France,Haute Parfumerie,4.89,5.88,5.65,5.0
+2026-04,France,Haute Parfumerie,4.9,4.91,5.66,5.0
+2026-05,France,Haute Parfumerie,5.76,6.76,6.66,5.0
+2026-06,France,Haute Parfumerie,5.46,5.11,6.3,5.0
+2024-07,France,Maquillage,12.16,12.16,14.04,5.0
+2024-08,France,Maquillage,12.49,12.87,14.42,5.0
+2024-09,France,Maquillage,9.82,10.14,14.74,6.5
+2024-10,France,Maquillage,11.73,14.61,17.61,6.5
+2024-11,France,Maquillage,13.44,16.0,20.18,6.5
+2024-12,France,Maquillage,15.58,13.4,18.0,5.0
+2025-01,France,Maquillage,10.55,1.07,8.52,3.5
+2025-02,France,Maquillage,11.75,12.72,9.5,3.5
+2025-03,France,Maquillage,11.04,14.28,12.74,5.0
+2025-04,France,Maquillage,11.51,12.06,13.29,5.0
+2025-05,France,Maquillage,13.58,15.96,15.68,5.0
+2025-06,France,Maquillage,11.54,9.18,13.32,5.0
+2025-07,France,Maquillage,12.0,12.54,13.86,5.0
+2025-08,France,Maquillage,11.8,11.57,13.63,5.0
+2025-09,France,Maquillage,11.32,14.68,16.99,6.5
+2025-10,France,Maquillage,11.7,12.28,17.56,6.5
+2025-11,France,Maquillage,13.34,15.8,20.02,6.5
+2025-12,France,Maquillage,16.26,15.01,18.77,5.0
+2026-01,France,Maquillage,10.7,0.57,8.65,3.5
+2026-02,France,Maquillage,13.24,15.3,10.7,3.5
+2026-03,France,Maquillage,10.84,12.65,12.51,5.0
+2026-04,France,Maquillage,11.4,12.05,13.16,5.0
+2026-05,France,Maquillage,12.91,14.66,14.91,5.0
+2026-06,France,Maquillage,11.3,9.45,13.05,5.0
+2024-07,Etats-Unis,Parfum Femme,53.49,53.49,61.77,5.0
+2024-08,Etats-Unis,Parfum Femme,51.96,50.19,60.0,5.0
+2024-09,Etats-Unis,Parfum Femme,47.01,57.58,70.57,6.5
+2024-10,Etats-Unis,Parfum Femme,49.18,52.44,73.83,6.5
+2024-11,Etats-Unis,Parfum Femme,55.37,64.67,83.12,6.5
+2024-12,Etats-Unis,Parfum Femme,67.46,62.24,77.9,5.0
+2025-01,Etats-Unis,Parfum Femme,45.15,3.75,36.5,3.5
+2025-02,Etats-Unis,Parfum Femme,53.37,60.0,43.14,3.5
+2025-03,Etats-Unis,Parfum Femme,48.08,60.47,55.52,5.0
+2025-04,Etats-Unis,Parfum Femme,50.13,52.5,57.89,5.0
+2025-05,Etats-Unis,Parfum Femme,59.83,71.02,69.08,5.0
+2025-06,Etats-Unis,Parfum Femme,51.39,41.65,59.34,5.0
+2025-07,Etats-Unis,Parfum Femme,54.18,57.4,62.56,5.0
+2025-08,Etats-Unis,Parfum Femme,52.09,49.67,60.15,5.0
+2025-09,Etats-Unis,Parfum Femme,44.47,51.08,66.76,6.5
+2025-10,Etats-Unis,Parfum Femme,50.25,58.92,75.43,6.5
+2025-11,Etats-Unis,Parfum Femme,59.21,72.67,88.89,6.5
+2025-12,Etats-Unis,Parfum Femme,75.43,73.65,87.1,5.0
+2026-01,Etats-Unis,Parfum Femme,46.04,0.0,41.06,3.5
+2026-02,Etats-Unis,Parfum Femme,56.27,60.69,45.49,3.5
+2026-03,Etats-Unis,Parfum Femme,48.24,58.47,55.71,5.0
+2026-04,Etats-Unis,Parfum Femme,48.08,47.89,55.52,5.0
+2026-05,Etats-Unis,Parfum Femme,59.19,72.02,68.35,5.0
+2026-06,Etats-Unis,Parfum Femme,53.16,46.2,61.39,5.0
+2024-07,Etats-Unis,Parfum Homme,36.72,36.72,42.41,5.0
+2024-08,Etats-Unis,Parfum Homme,33.65,30.1,38.86,5.0
+2024-09,Etats-Unis,Parfum Homme,33.28,44.39,49.96,6.5
+2024-10,Etats-Unis,Parfum Homme,31.83,29.65,47.78,6.5
+2024-11,Etats-Unis,Parfum Homme,40.13,52.6,60.25,6.5
+2024-12,Etats-Unis,Parfum Homme,49.76,46.98,57.46,5.0
+2025-01,Etats-Unis,Parfum Homme,29.78,0.0,27.68,3.5
+2025-02,Etats-Unis,Parfum Homme,36.33,38.01,29.36,3.5
+2025-03,Etats-Unis,Parfum Homme,32.75,41.21,37.82,5.0
+2025-04,Etats-Unis,Parfum Homme,32.78,32.81,37.85,5.0
+2025-05,Etats-Unis,Parfum Homme,35.83,39.35,41.37,5.0
+2025-06,Etats-Unis,Parfum Homme,34.56,33.1,39.91,5.0
+2025-07,Etats-Unis,Parfum Homme,34.9,35.29,40.3,5.0
+2025-08,Etats-Unis,Parfum Homme,35.84,36.92,41.38,5.0
+2025-09,Etats-Unis,Parfum Homme,31.14,36.51,46.75,6.5
+2025-10,Etats-Unis,Parfum Homme,35.79,42.77,53.73,6.5
+2025-11,Etats-Unis,Parfum Homme,38.79,43.29,58.23,6.5
+2025-12,Etats-Unis,Parfum Homme,46.35,41.63,53.52,5.0
+2026-01,Etats-Unis,Parfum Homme,32.18,4.67,26.01,3.5
+2026-02,Etats-Unis,Parfum Homme,35.97,39.03,29.07,3.5
+2026-03,Etats-Unis,Parfum Homme,32.86,41.74,37.95,5.0
+2026-04,Etats-Unis,Parfum Homme,35.39,38.3,40.86,5.0
+2026-05,Etats-Unis,Parfum Homme,36.26,37.26,41.87,5.0
+2026-06,Etats-Unis,Parfum Homme,35.19,33.96,40.64,5.0
+2024-07,Etats-Unis,Haute Parfumerie,13.36,13.36,15.42,5.0
+2024-08,Etats-Unis,Haute Parfumerie,13.22,13.07,15.27,5.0
+2024-09,Etats-Unis,Haute Parfumerie,11.24,12.85,16.88,6.5
+2024-10,Etats-Unis,Haute Parfumerie,11.82,12.7,17.75,6.5
+2024-11,Etats-Unis,Haute Parfumerie,14.83,19.34,22.26,6.5
+2024-12,Etats-Unis,Haute Parfumerie,17.3,15.0,19.97,5.0
+2025-01,Etats-Unis,Haute Parfumerie,11.53,0.87,9.32,3.5
+2025-02,Etats-Unis,Haute Parfumerie,13.89,15.81,11.23,3.5
+2025-03,Etats-Unis,Haute Parfumerie,11.8,14.2,13.63,5.0
+2025-04,Etats-Unis,Haute Parfumerie,12.46,13.22,14.39,5.0
+2025-05,Etats-Unis,Haute Parfumerie,14.17,16.16,16.37,5.0
+2025-06,Etats-Unis,Haute Parfumerie,12.45,10.46,14.38,5.0
+2025-07,Etats-Unis,Haute Parfumerie,14.3,16.44,16.51,5.0
+2025-08,Etats-Unis,Haute Parfumerie,13.27,12.09,15.33,5.0
+2025-09,Etats-Unis,Haute Parfumerie,11.42,13.24,17.14,6.5
+2025-10,Etats-Unis,Haute Parfumerie,12.86,15.03,19.31,6.5
+2025-11,Etats-Unis,Haute Parfumerie,14.27,16.38,21.42,6.5
+2025-12,Etats-Unis,Haute Parfumerie,17.84,17.02,20.6,5.0
+2026-01,Etats-Unis,Haute Parfumerie,12.06,1.2,9.75,3.5
+2026-02,Etats-Unis,Haute Parfumerie,13.52,14.7,10.93,3.5
+2026-03,Etats-Unis,Haute Parfumerie,12.48,15.97,14.41,5.0
+2026-04,Etats-Unis,Haute Parfumerie,12.71,12.98,14.68,5.0
+2026-05,Etats-Unis,Haute Parfumerie,14.64,16.86,16.9,5.0
+2026-06,Etats-Unis,Haute Parfumerie,13.81,12.85,15.95,5.0
+2024-07,Etats-Unis,Maquillage,30.18,30.18,34.85,5.0
+2024-08,Etats-Unis,Maquillage,28.83,27.26,33.29,5.0
+2024-09,Etats-Unis,Maquillage,26.18,32.21,39.31,6.5
+2024-10,Etats-Unis,Maquillage,27.7,29.97,41.58,6.5
+2024-11,Etats-Unis,Maquillage,33.41,41.98,50.15,6.5
+2024-12,Etats-Unis,Maquillage,39.84,35.7,46.01,5.0
+2025-01,Etats-Unis,Maquillage,26.53,1.97,21.45,3.5
+2025-02,Etats-Unis,Maquillage,32.49,37.3,26.26,3.5
+2025-03,Etats-Unis,Maquillage,27.82,33.68,32.12,5.0
+2025-04,Etats-Unis,Maquillage,29.87,32.24,34.49,5.0
+2025-05,Etats-Unis,Maquillage,31.97,34.4,36.92,5.0
+2025-06,Etats-Unis,Maquillage,32.17,32.39,37.14,5.0
+2025-07,Etats-Unis,Maquillage,31.55,30.84,36.43,5.0
+2025-08,Etats-Unis,Maquillage,29.13,26.33,33.64,5.0
+2025-09,Etats-Unis,Maquillage,26.38,32.36,39.61,6.5
+2025-10,Etats-Unis,Maquillage,29.41,33.95,44.14,6.5
+2025-11,Etats-Unis,Maquillage,33.71,40.17,50.6,6.5
+2025-12,Etats-Unis,Maquillage,40.93,37.59,47.26,5.0
+2026-01,Etats-Unis,Maquillage,27.09,1.73,21.9,3.5
+2026-02,Etats-Unis,Maquillage,31.94,35.85,25.82,3.5
+2026-03,Etats-Unis,Maquillage,26.95,32.26,31.12,5.0
+2026-04,Etats-Unis,Maquillage,27.3,27.69,31.52,5.0
+2026-05,Etats-Unis,Maquillage,32.21,37.89,37.2,5.0
+2026-06,Etats-Unis,Maquillage,30.68,28.9,35.42,5.0
+2024-07,Chine,Parfum Femme,45.53,45.53,52.57,5.0
+2024-08,Chine,Parfum Femme,42.04,38.0,48.54,5.0
+2024-09,Chine,Parfum Femme,40.36,52.42,60.59,6.5
+2024-10,Chine,Parfum Femme,42.9,46.7,64.4,6.5
+2024-11,Chine,Parfum Femme,48.19,56.14,72.34,6.5
+2024-12,Chine,Parfum Femme,58.76,54.27,67.85,5.0
+2025-01,Chine,Parfum Femme,39.09,2.83,31.6,3.5
+2025-02,Chine,Parfum Femme,44.99,49.77,36.37,3.5
+2025-03,Chine,Parfum Femme,41.79,53.68,48.26,5.0
+2025-04,Chine,Parfum Femme,43.02,44.44,49.68,5.0
+2025-05,Chine,Parfum Femme,49.72,57.46,57.42,5.0
+2025-06,Chine,Parfum Femme,45.21,40.0,52.21,5.0
+2025-07,Chine,Parfum Femme,43.63,41.8,50.38,5.0
+2025-08,Chine,Parfum Femme,43.12,42.53,49.79,5.0
+2025-09,Chine,Parfum Femme,41.43,53.83,62.19,6.5
+2025-10,Chine,Parfum Femme,43.95,47.75,65.98,6.5
+2025-11,Chine,Parfum Femme,51.93,63.91,77.96,6.5
+2025-12,Chine,Parfum Femme,68.43,69.48,79.01,5.0
+2026-01,Chine,Parfum Femme,41.28,0.0,37.74,3.5
+2026-02,Chine,Parfum Femme,50.84,54.19,41.09,3.5
+2026-03,Chine,Parfum Femme,44.07,53.87,50.89,5.0
+2026-04,Chine,Parfum Femme,45.52,47.19,52.56,5.0
+2026-05,Chine,Parfum Femme,50.25,55.7,58.02,5.0
+2026-06,Chine,Parfum Femme,47.73,44.83,55.12,5.0
+2024-07,Chine,Parfum Homme,29.68,29.68,34.27,5.0
+2024-08,Chine,Parfum Homme,29.42,29.12,33.97,5.0
+2024-09,Chine,Parfum Homme,26.62,32.61,39.96,6.5
+2024-10,Chine,Parfum Homme,28.65,31.7,43.01,6.5
+2024-11,Chine,Parfum Homme,36.29,47.75,54.47,6.5
+2024-12,Chine,Parfum Homme,36.87,24.98,42.58,5.0
+2025-01,Chine,Parfum Homme,26.97,6.18,21.8,3.5
+2025-02,Chine,Parfum Homme,29.85,32.18,24.13,3.5
+2025-03,Chine,Parfum Homme,27.4,34.91,31.64,5.0
+2025-04,Chine,Parfum Homme,29.57,32.07,34.14,5.0
+2025-05,Chine,Parfum Homme,32.41,35.69,37.42,5.0
+2025-06,Chine,Parfum Homme,28.32,23.6,32.7,5.0
+2025-07,Chine,Parfum Homme,30.16,32.29,34.83,5.0
+2025-08,Chine,Parfum Homme,30.81,31.55,35.57,5.0
+2025-09,Chine,Parfum Homme,26.77,31.37,40.18,6.5
+2025-10,Chine,Parfum Homme,29.36,33.27,44.08,6.5
+2025-11,Chine,Parfum Homme,34.49,42.18,51.77,6.5
+2025-12,Chine,Parfum Homme,39.77,33.92,45.93,5.0
+2026-01,Chine,Parfum Homme,29.37,7.18,23.74,3.5
+2026-02,Chine,Parfum Homme,33.74,37.27,27.27,3.5
+2026-03,Chine,Parfum Homme,26.75,30.36,30.89,5.0
+2026-04,Chine,Parfum Homme,30.24,34.27,34.92,5.0
+2026-05,Chine,Parfum Homme,33.5,37.27,38.68,5.0
+2026-06,Chine,Parfum Homme,32.32,30.96,37.32,5.0
+2024-07,Chine,Haute Parfumerie,10.98,10.98,12.68,5.0
+2024-08,Chine,Haute Parfumerie,10.94,10.9,12.64,5.0
+2024-09,Chine,Haute Parfumerie,10.21,12.89,15.32,6.5
+2024-10,Chine,Haute Parfumerie,10.9,11.95,16.37,6.5
+2024-11,Chine,Haute Parfumerie,11.91,13.42,17.88,6.5
+2024-12,Chine,Haute Parfumerie,14.44,13.24,16.68,5.0
+2025-01,Chine,Haute Parfumerie,9.59,0.67,7.75,3.5
+2025-02,Chine,Haute Parfumerie,11.45,12.95,9.25,3.5
+2025-03,Chine,Haute Parfumerie,10.96,14.35,12.65,5.0
+2025-04,Chine,Haute Parfumerie,10.7,10.4,12.35,5.0
+2025-05,Chine,Haute Parfumerie,11.45,12.31,13.22,5.0
+2025-06,Chine,Haute Parfumerie,11.25,11.02,12.99,5.0
+2025-07,Chine,Haute Parfumerie,12.31,13.53,14.21,5.0
+2025-08,Chine,Haute Parfumerie,11.55,10.67,13.33,5.0
+2025-09,Chine,Haute Parfumerie,9.63,10.76,14.46,6.5
+2025-10,Chine,Haute Parfumerie,10.61,12.08,15.93,6.5
+2025-11,Chine,Haute Parfumerie,13.32,17.38,19.99,6.5
+2025-12,Chine,Haute Parfumerie,14.7,11.68,16.98,5.0
+2026-01,Chine,Haute Parfumerie,10.27,1.6,8.31,3.5
+2026-02,Chine,Haute Parfumerie,12.55,14.4,10.15,3.5
+2026-03,Chine,Haute Parfumerie,10.32,12.08,11.91,5.0
+2026-04,Chine,Haute Parfumerie,11.1,12.01,12.82,5.0
+2026-05,Chine,Haute Parfumerie,11.26,11.44,13.0,5.0
+2026-06,Chine,Haute Parfumerie,11.21,11.15,12.94,5.0
+2024-07,Chine,Maquillage,25.75,25.75,29.74,5.0
+2024-08,Chine,Maquillage,24.17,22.34,27.91,5.0
+2024-09,Chine,Maquillage,24.39,33.09,36.61,6.5
+2024-10,Chine,Maquillage,23.12,21.22,34.71,6.5
+2024-11,Chine,Maquillage,28.15,35.71,42.26,6.5
+2024-12,Chine,Maquillage,33.76,30.48,38.99,5.0
+2025-01,Chine,Maquillage,23.56,3.62,19.05,3.5
+2025-02,Chine,Maquillage,25.6,27.24,20.69,3.5
+2025-03,Chine,Maquillage,24.7,32.53,28.52,5.0
+2025-04,Chine,Maquillage,24.27,23.77,28.03,5.0
+2025-05,Chine,Maquillage,26.6,29.29,30.72,5.0
+2025-06,Chine,Maquillage,25.48,24.18,29.42,5.0
+2025-07,Chine,Maquillage,26.54,27.77,30.65,5.0
+2025-08,Chine,Maquillage,25.09,23.43,28.98,5.0
+2025-09,Chine,Maquillage,23.46,29.69,35.21,6.5
+2025-10,Chine,Maquillage,24.49,26.05,36.77,6.5
+2025-11,Chine,Maquillage,29.45,36.89,44.21,6.5
+2025-12,Chine,Maquillage,35.47,32.23,40.96,5.0
+2026-01,Chine,Maquillage,24.56,3.45,19.85,3.5
+2026-02,Chine,Maquillage,26.9,28.78,21.74,3.5
+2026-03,Chine,Maquillage,26.35,35.05,30.43,5.0
+2026-04,Chine,Maquillage,23.84,20.94,27.53,5.0
+2026-05,Chine,Maquillage,29.06,35.08,33.56,5.0
+2026-06,Chine,Maquillage,27.29,25.24,31.51,5.0
+2024-07,Reste du Monde,Parfum Femme,91.95,91.95,106.18,5.0
+2024-08,Reste du Monde,Parfum Femme,86.63,80.49,100.04,5.0
+2024-09,Reste du Monde,Parfum Femme,80.25,100.69,120.48,6.5
+2024-10,Reste du Monde,Parfum Femme,83.82,89.17,125.83,6.5
+2024-11,Reste du Monde,Parfum Femme,98.14,119.63,147.32,6.5
+2024-12,Reste du Monde,Parfum Femme,121.27,113.99,140.04,5.0
+2025-01,Reste du Monde,Parfum Femme,79.59,3.88,64.33,3.5
+2025-02,Reste du Monde,Parfum Femme,92.15,102.3,74.49,3.5
+2025-03,Reste du Monde,Parfum Femme,85.79,110.37,99.06,5.0
+2025-04,Reste du Monde,Parfum Femme,85.94,86.11,99.23,5.0
+2025-05,Reste du Monde,Parfum Femme,99.28,114.68,114.64,5.0
+2025-06,Reste du Monde,Parfum Femme,89.79,78.84,103.69,5.0
+2025-07,Reste du Monde,Parfum Femme,89.68,89.55,103.56,5.0
+2025-08,Reste du Monde,Parfum Femme,88.06,86.2,101.69,5.0
+2025-09,Reste du Monde,Parfum Femme,84.14,108.76,126.31,6.5
+2025-10,Reste du Monde,Parfum Femme,88.35,94.68,132.63,6.5
+2025-11,Reste du Monde,Parfum Femme,101.56,121.37,152.45,6.5
+2025-12,Reste du Monde,Parfum Femme,119.93,105.98,138.49,5.0
+2026-01,Reste du Monde,Parfum Femme,83.29,12.12,67.32,3.5
+2026-02,Reste du Monde,Parfum Femme,93.79,102.29,75.82,3.5
+2026-03,Reste du Monde,Parfum Femme,84.67,106.63,97.77,5.0
+2026-04,Reste du Monde,Parfum Femme,85.61,86.7,98.86,5.0
+2026-05,Reste du Monde,Parfum Femme,97.15,110.46,112.18,5.0
+2026-06,Reste du Monde,Parfum Femme,92.52,87.18,106.84,5.0
+2024-07,Reste du Monde,Parfum Homme,63.24,63.24,73.03,5.0
+2024-08,Reste du Monde,Parfum Homme,61.48,59.45,70.99,5.0
+2024-09,Reste du Monde,Parfum Homme,57.06,71.73,85.66,6.5
+2024-10,Reste du Monde,Parfum Homme,57.61,58.44,86.49,6.5
+2024-11,Reste du Monde,Parfum Homme,69.25,86.73,103.96,6.5
+2024-12,Reste du Monde,Parfum Homme,78.63,65.47,90.8,5.0
+2025-01,Reste du Monde,Parfum Homme,53.66,6.24,43.38,3.5
+2025-02,Reste du Monde,Parfum Homme,63.46,71.37,51.29,3.5
+2025-03,Reste du Monde,Parfum Homme,56.33,70.08,65.05,5.0
+2025-04,Reste du Monde,Parfum Homme,58.59,61.19,67.65,5.0
+2025-05,Reste du Monde,Parfum Homme,63.29,68.73,73.09,5.0
+2025-06,Reste du Monde,Parfum Homme,63.65,64.06,73.5,5.0
+2025-07,Reste du Monde,Parfum Homme,60.15,56.11,69.45,5.0
+2025-08,Reste du Monde,Parfum Homme,58.06,55.64,67.04,5.0
+2025-09,Reste du Monde,Parfum Homme,57.59,77.0,86.45,6.5
+2025-10,Reste du Monde,Parfum Homme,60.01,63.64,90.08,6.5
+2025-11,Reste du Monde,Parfum Homme,70.1,85.24,105.23,6.5
+2025-12,Reste du Monde,Parfum Homme,82.4,72.32,95.15,5.0
+2026-01,Reste du Monde,Parfum Homme,53.79,2.12,43.48,3.5
+2026-02,Reste du Monde,Parfum Homme,62.62,69.76,50.62,3.5
+2026-03,Reste du Monde,Parfum Homme,56.23,70.54,64.93,5.0
+2026-04,Reste du Monde,Parfum Homme,56.82,57.5,65.61,5.0
+2026-05,Reste du Monde,Parfum Homme,68.33,81.62,78.91,5.0
+2026-06,Reste du Monde,Parfum Homme,59.83,50.01,69.09,5.0
+2024-07,Reste du Monde,Haute Parfumerie,22.11,22.11,25.53,5.0
+2024-08,Reste du Monde,Haute Parfumerie,21.89,21.64,25.28,5.0
+2024-09,Reste du Monde,Haute Parfumerie,20.5,26.0,30.78,6.5
+2024-10,Reste du Monde,Haute Parfumerie,20.9,21.5,31.38,6.5
+2024-11,Reste du Monde,Haute Parfumerie,24.33,29.48,36.52,6.5
+2024-12,Reste du Monde,Haute Parfumerie,29.69,27.46,34.29,5.0
+2025-01,Reste du Monde,Haute Parfumerie,19.82,1.55,16.02,3.5
+2025-02,Reste du Monde,Haute Parfumerie,23.19,25.92,18.75,3.5
+2025-03,Reste du Monde,Haute Parfumerie,20.45,25.32,23.61,5.0
+2025-04,Reste du Monde,Haute Parfumerie,21.43,22.56,24.74,5.0
+2025-05,Reste du Monde,Haute Parfumerie,22.91,24.62,26.45,5.0
+2025-06,Reste du Monde,Haute Parfumerie,20.88,18.54,24.11,5.0
+2025-07,Reste du Monde,Haute Parfumerie,22.51,24.39,25.99,5.0
+2025-08,Reste du Monde,Haute Parfumerie,22.29,22.03,25.74,5.0
+2025-09,Reste du Monde,Haute Parfumerie,20.72,26.09,31.11,6.5
+2025-10,Reste du Monde,Haute Parfumerie,22.74,25.78,34.14,6.5
+2025-11,Reste du Monde,Haute Parfumerie,26.17,31.31,39.29,6.5
+2025-12,Reste du Monde,Haute Parfumerie,29.69,24.7,34.29,5.0
+2026-01,Reste du Monde,Haute Parfumerie,19.92,1.73,16.1,3.5
+2026-02,Reste du Monde,Haute Parfumerie,23.1,25.68,18.68,3.5
+2026-03,Reste du Monde,Haute Parfumerie,20.76,26.05,23.97,5.0
+2026-04,Reste du Monde,Haute Parfumerie,21.34,22.01,24.64,5.0
+2026-05,Reste du Monde,Haute Parfumerie,24.75,28.69,28.58,5.0
+2026-06,Reste du Monde,Haute Parfumerie,21.63,18.03,24.98,5.0
+2024-07,Reste du Monde,Maquillage,53.31,53.31,61.56,5.0
+2024-08,Reste du Monde,Maquillage,53.66,54.05,61.96,5.0
+2024-09,Reste du Monde,Maquillage,46.31,53.87,69.52,6.5
+2024-10,Reste du Monde,Maquillage,49.73,54.87,74.66,6.5
+2024-11,Reste du Monde,Maquillage,59.01,72.94,88.58,6.5
+2024-12,Reste du Monde,Maquillage,66.77,55.28,77.1,5.0
+2025-01,Reste du Monde,Maquillage,45.55,5.28,36.82,3.5
+2025-02,Reste du Monde,Maquillage,54.33,61.42,43.91,3.5
+2025-03,Reste du Monde,Maquillage,47.99,59.48,55.41,5.0
+2025-04,Reste du Monde,Maquillage,47.56,47.08,54.92,5.0
+2025-05,Reste du Monde,Maquillage,55.55,64.78,64.15,5.0
+2025-06,Reste du Monde,Maquillage,51.4,46.6,59.35,5.0
+2025-07,Reste du Monde,Maquillage,55.8,60.89,64.44,5.0
+2025-08,Reste du Monde,Maquillage,53.38,50.59,61.64,5.0
+2025-09,Reste du Monde,Maquillage,50.7,65.17,76.11,6.5
+2025-10,Reste du Monde,Maquillage,48.4,44.96,72.66,6.5
+2025-11,Reste du Monde,Maquillage,60.22,77.96,90.4,6.5
+2025-12,Reste du Monde,Maquillage,69.12,58.54,79.82,5.0
+2026-01,Reste du Monde,Maquillage,49.35,9.43,39.89,3.5
+2026-02,Reste du Monde,Maquillage,53.51,56.88,43.26,3.5
+2026-03,Reste du Monde,Maquillage,46.37,56.65,53.54,5.0
+2026-04,Reste du Monde,Maquillage,48.54,51.04,56.05,5.0
+2026-05,Reste du Monde,Maquillage,52.1,56.22,60.17,5.0
+2026-06,Reste du Monde,Maquillage,50.29,48.19,58.07,5.0

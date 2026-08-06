@@ -1,0 +1,20 @@
+period,entity,metric,value,unit,source
+2025-Q3,LVMH Parfums & Cosmetiques,organic_growth,2.0,pct,LVMH Q3 2025 sales release
+2025-FY,Circana US Prestige Beauty,dollar_sales_growth,4.0,pct,Circana 2025 annual report (WWD)
+2025-FY,Circana US Mass Beauty,dollar_sales_growth,5.0,pct,Circana 2025 annual report (WWD)
+2025-FY,Circana US Prestige Fragrance,share_of_prestige_sales,24.0,pct,Circana/WWD fragrance trends report
+2025-FY,Circana US Prestige Fragrance,share_of_prestige_dollar_growth,37.0,pct,Circana/WWD fragrance trends report
+2026-Q1,LVMH Total Group,sales_eur_bn,19.1,EUR bn,LVMH Q1 2026 sales release
+2026-Q1,LVMH Fashion & Leather Goods,organic_growth,-2.0,pct,LVMH Q1 2026 sales release
+2026-Q1,LVMH Watches & Jewelry,organic_growth,7.0,pct,LVMH Q1 2026 sales release
+2026-Q1,Circana US Prestige Beauty,dollar_sales_eur_bn,8.1,USD bn,Circana Q1 2026 report (Beauty Packaging)
+2026-Q1,Circana US Prestige Beauty,dollar_sales_growth,6.0,pct,Circana Q1 2026 report (Beauty Packaging)
+2026-Q1,L'Oreal Luxe,adjusted_lfl_growth,4.8,pct,L'Oreal Q1 2026 sales release
+2026-Q1,L'Oreal Professional Products,adjusted_lfl_growth,7.6,pct,L'Oreal Q1 2026 sales release
+2026-H1,LVMH Group,operating_result_eur_bn,8.7,EUR bn,LVMH H1 2026 results
+2026-H1,LVMH Group,operating_margin,22.5,pct,LVMH H1 2026 results
+2026-H1,LVMH Group,net_profit_eur_bn,5.7,EUR bn,LVMH H1 2026 results
+2026-H1,LVMH Parfums & Cosmetiques,organic_growth,0.0,pct,LVMH H1 2026 shareholder letter (stable organic)
+2026-H1,LVMH Total Group,sales_eur_bn,38.64,EUR bn,FashionNetwork on LVMH H1 2026 results
+2026-H1,L'Oreal Group,adjusted_lfl_growth,6.5,pct,L'Oreal H1 2026 results
+2026-Q2,LVMH Fashion & Leather Goods,qualitative_signal,1.0,index,LVMH H1 2026 release - acceleration driven by Jonathan Anderson's first Dior collections

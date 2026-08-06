@@ -1,0 +1,139 @@
+{
+  "curve": [
+    {
+      "week": 0.0,
+      "survival_prob": 1.0
+    },
+    {
+      "week": 7.0,
+      "survival_prob": 0.9
+    },
+    {
+      "week": 8.0,
+      "survival_prob": 0.7
+    },
+    {
+      "week": 10.0,
+      "survival_prob": 0.5
+    },
+    {
+      "week": 11.0,
+      "survival_prob": 0.4
+    },
+    {
+      "week": 13.0,
+      "survival_prob": 0.3
+    },
+    {
+      "week": 14.0,
+      "survival_prob": 0.2
+    },
+    {
+      "week": 17.0,
+      "survival_prob": 0.1
+    },
+    {
+      "week": 18.0,
+      "survival_prob": 0.0
+    }
+  ],
+  "median_weeks": 10.0,
+  "segment_medians": {
+    "Core Fragrance": 13.0,
+    "Haute Parfumerie": 18.0,
+    "Maquillage": 8.0,
+    "Limited Edition": 7.0
+  },
+  "launches": [
+    {
+      "launch": "J'adore Intense",
+      "segment": "Core Fragrance",
+      "canal": "Retail",
+      "weeks_to_half_life": 10,
+      "censored": false,
+      "event_observed": true,
+      "recommandation": "V\u00e9locit\u00e9 courte : activer CRM / relance retargeting rapidement, ne pas sur-stocker au-del\u00e0 de S+8"
+    },
+    {
+      "launch": "Dior Addict (EdP)",
+      "segment": "Core Fragrance",
+      "canal": "Retail",
+      "weeks_to_half_life": 11,
+      "censored": false,
+      "event_observed": true,
+      "recommandation": "V\u00e9locit\u00e9 courte : activer CRM / relance retargeting rapidement, ne pas sur-stocker au-del\u00e0 de S+8"
+    },
+    {
+      "launch": "Sauvage Elixir",
+      "segment": "Core Fragrance",
+      "canal": "Travel Retail",
+      "weeks_to_half_life": 14,
+      "censored": false,
+      "event_observed": true,
+      "recommandation": "V\u00e9locit\u00e9 standard : maintenir la distribution actuelle, r\u00e9assort classique"
+    },
+    {
+      "launch": "Miss Dior Essence",
+      "segment": "Core Fragrance",
+      "canal": "Retail",
+      "weeks_to_half_life": 17,
+      "censored": false,
+      "event_observed": true,
+      "recommandation": "V\u00e9locit\u00e9 longue (fid\u00e9lit\u00e9 forte) : investir en storytelling / contenu de marque plut\u00f4t qu'en promotion prix"
+    },
+    {
+      "launch": "Dior Homme",
+      "segment": "Core Fragrance",
+      "canal": "Retail",
+      "weeks_to_half_life": 13,
+      "censored": false,
+      "event_observed": true,
+      "recommandation": "V\u00e9locit\u00e9 standard : maintenir la distribution actuelle, r\u00e9assort classique"
+    },
+    {
+      "launch": "Cuir Saddle (Collection Privee)",
+      "segment": "Haute Parfumerie",
+      "canal": "Retail",
+      "weeks_to_half_life": 18,
+      "censored": false,
+      "event_observed": true,
+      "recommandation": "V\u00e9locit\u00e9 longue (fid\u00e9lit\u00e9 forte) : investir en storytelling / contenu de marque plut\u00f4t qu'en promotion prix"
+    },
+    {
+      "launch": "Forever Skin Glow",
+      "segment": "Maquillage",
+      "canal": "E-commerce",
+      "weeks_to_half_life": 10,
+      "censored": false,
+      "event_observed": true,
+      "recommandation": "V\u00e9locit\u00e9 courte : activer CRM / relance retargeting rapidement, ne pas sur-stocker au-del\u00e0 de S+8"
+    },
+    {
+      "launch": "Backstage Airflash Mist",
+      "segment": "Maquillage",
+      "canal": "E-commerce",
+      "weeks_to_half_life": 8,
+      "censored": false,
+      "event_observed": true,
+      "recommandation": "V\u00e9locit\u00e9 courte : activer CRM / relance retargeting rapidement, ne pas sur-stocker au-del\u00e0 de S+8"
+    },
+    {
+      "launch": "Rouge Dior Limited Edition",
+      "segment": "Limited Edition",
+      "canal": "E-commerce",
+      "weeks_to_half_life": 7,
+      "censored": false,
+      "event_observed": true,
+      "recommandation": "V\u00e9locit\u00e9 courte : activer CRM / relance retargeting rapidement, ne pas sur-stocker au-del\u00e0 de S+8"
+    },
+    {
+      "launch": "Noel Capsule Coffret",
+      "segment": "Limited Edition",
+      "canal": "Travel Retail",
+      "weeks_to_half_life": 8,
+      "censored": false,
+      "event_observed": true,
+      "recommandation": "V\u00e9locit\u00e9 courte : activer CRM / relance retargeting rapidement, ne pas sur-stocker au-del\u00e0 de S+8"
+    }
+  ]
+}

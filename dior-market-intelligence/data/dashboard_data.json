@@ -1,0 +1,681 @@
+{
+  "monthly_region": [
+    {
+      "mois": "2024-07",
+      "Chine": 111.94,
+      "Etats-Unis": 133.75,
+      "France": 53.08,
+      "Reste du Monde": 230.61
+    },
+    {
+      "mois": "2024-08",
+      "Chine": 106.57,
+      "Etats-Unis": 127.66,
+      "France": 51.78,
+      "Reste du Monde": 223.66
+    },
+    {
+      "mois": "2024-09",
+      "Chine": 101.58,
+      "Etats-Unis": 117.71000000000001,
+      "France": 45.980000000000004,
+      "Reste du Monde": 204.12
+    },
+    {
+      "mois": "2024-10",
+      "Chine": 105.57,
+      "Etats-Unis": 120.53,
+      "France": 51.07,
+      "Reste du Monde": 212.06
+    },
+    {
+      "mois": "2024-11",
+      "Chine": 124.53999999999999,
+      "Etats-Unis": 143.74,
+      "France": 57.64,
+      "Reste du Monde": 250.73
+    },
+    {
+      "mois": "2024-12",
+      "Chine": 143.82999999999998,
+      "Etats-Unis": 174.36,
+      "France": 68.03,
+      "Reste du Monde": 296.36
+    },
+    {
+      "mois": "2025-01",
+      "Chine": 99.21000000000001,
+      "Etats-Unis": 112.99000000000001,
+      "France": 46.66,
+      "Reste du Monde": 198.62
+    },
+    {
+      "mois": "2025-02",
+      "Chine": 111.89,
+      "Etats-Unis": 136.07999999999998,
+      "France": 55.76,
+      "Reste du Monde": 233.13
+    },
+    {
+      "mois": "2025-03",
+      "Chine": 104.85,
+      "Etats-Unis": 120.45,
+      "France": 47.8,
+      "Reste du Monde": 210.56
+    },
+    {
+      "mois": "2025-04",
+      "Chine": 107.56,
+      "Etats-Unis": 125.24000000000001,
+      "France": 49.4,
+      "Reste du Monde": 213.52
+    },
+    {
+      "mois": "2025-05",
+      "Chine": 120.17999999999999,
+      "Etats-Unis": 141.8,
+      "France": 56.93,
+      "Reste du Monde": 241.03
+    },
+    {
+      "mois": "2025-06",
+      "Chine": 110.26,
+      "Etats-Unis": 130.57,
+      "France": 50.120000000000005,
+      "Reste du Monde": 225.72
+    },
+    {
+      "mois": "2025-07",
+      "Chine": 112.64,
+      "Etats-Unis": 134.93,
+      "France": 53.54,
+      "Reste du Monde": 228.14
+    },
+    {
+      "mois": "2025-08",
+      "Chine": 110.57,
+      "Etats-Unis": 130.33,
+      "France": 49.61,
+      "Reste du Monde": 221.79000000000002
+    },
+    {
+      "mois": "2025-09",
+      "Chine": 101.28999999999999,
+      "Etats-Unis": 113.41,
+      "France": 46.09,
+      "Reste du Monde": 213.15
+    },
+    {
+      "mois": "2025-10",
+      "Chine": 108.41,
+      "Etats-Unis": 128.31,
+      "France": 49.91,
+      "Reste du Monde": 219.5
+    },
+    {
+      "mois": "2025-11",
+      "Chine": 129.19,
+      "Etats-Unis": 145.98000000000002,
+      "France": 58.59,
+      "Reste du Monde": 258.05
+    },
+    {
+      "mois": "2025-12",
+      "Chine": 158.37,
+      "Etats-Unis": 180.55,
+      "France": 70.47,
+      "Reste du Monde": 301.14
+    },
+    {
+      "mois": "2026-01",
+      "Chine": 105.48,
+      "Etats-Unis": 117.37,
+      "France": 45.730000000000004,
+      "Reste du Monde": 206.35000000000002
+    },
+    {
+      "mois": "2026-02",
+      "Chine": 124.03,
+      "Etats-Unis": 137.7,
+      "France": 55.050000000000004,
+      "Reste du Monde": 233.02
+    },
+    {
+      "mois": "2026-03",
+      "Chine": 107.49000000000001,
+      "Etats-Unis": 120.53,
+      "France": 48.41,
+      "Reste du Monde": 208.03
+    },
+    {
+      "mois": "2026-04",
+      "Chine": 110.7,
+      "Etats-Unis": 123.48,
+      "France": 49.38,
+      "Reste du Monde": 212.31
+    },
+    {
+      "mois": "2026-05",
+      "Chine": 124.07,
+      "Etats-Unis": 142.3,
+      "France": 56.61,
+      "Reste du Monde": 242.33
+    },
+    {
+      "mois": "2026-06",
+      "Chine": 118.55,
+      "Etats-Unis": 132.84,
+      "France": 50.95,
+      "Reste du Monde": 224.26999999999998
+    }
+  ],
+  "monthly_stock": [
+    {
+      "mois": "2024-07",
+      "sellout_meur": 529.38,
+      "sellin_meur": 529.38,
+      "stock_meur": 611.3100000000001
+    },
+    {
+      "mois": "2024-08",
+      "sellout_meur": 509.66999999999996,
+      "sellin_meur": 486.87,
+      "stock_meur": 588.54
+    },
+    {
+      "mois": "2024-09",
+      "sellout_meur": 469.39,
+      "sellin_meur": 585.55,
+      "stock_meur": 704.66
+    },
+    {
+      "mois": "2024-10",
+      "sellout_meur": 489.23,
+      "sellin_meur": 519.05,
+      "stock_meur": 734.46
+    },
+    {
+      "mois": "2024-11",
+      "sellout_meur": 576.65,
+      "sellin_meur": 707.87,
+      "stock_meur": 865.65
+    },
+    {
+      "mois": "2024-12",
+      "sellout_meur": 682.5799999999999,
+      "sellin_meur": 605.17,
+      "stock_meur": 788.25
+    },
+    {
+      "mois": "2025-01",
+      "sellout_meur": 457.48,
+      "sellin_meur": 42.63,
+      "stock_meur": 373.4
+    },
+    {
+      "mois": "2025-02",
+      "sellout_meur": 536.86,
+      "sellin_meur": 597.39,
+      "stock_meur": 433.94
+    },
+    {
+      "mois": "2025-03",
+      "sellout_meur": 483.65999999999997,
+      "sellin_meur": 608.21,
+      "stock_meur": 558.49
+    },
+    {
+      "mois": "2025-04",
+      "sellout_meur": 495.72,
+      "sellin_meur": 509.64,
+      "stock_meur": 572.41
+    },
+    {
+      "mois": "2025-05",
+      "sellout_meur": 559.94,
+      "sellin_meur": 634.11,
+      "stock_meur": 646.59
+    },
+    {
+      "mois": "2025-06",
+      "sellout_meur": 516.6700000000001,
+      "sellin_meur": 466.71000000000004,
+      "stock_meur": 596.62
+    },
+    {
+      "mois": "2025-07",
+      "sellout_meur": 529.25,
+      "sellin_meur": 543.8,
+      "stock_meur": 611.14
+    },
+    {
+      "mois": "2025-08",
+      "sellout_meur": 512.3,
+      "sellin_meur": 492.71000000000004,
+      "stock_meur": 591.58
+    },
+    {
+      "mois": "2025-09",
+      "sellout_meur": 473.94,
+      "sellin_meur": 593.85,
+      "stock_meur": 711.47
+    },
+    {
+      "mois": "2025-10",
+      "sellout_meur": 506.13,
+      "sellin_meur": 554.53,
+      "stock_meur": 759.81
+    },
+    {
+      "mois": "2025-11",
+      "sellout_meur": 591.81,
+      "sellin_meur": 720.34,
+      "stock_meur": 888.37
+    },
+    {
+      "mois": "2025-12",
+      "sellout_meur": 710.53,
+      "sellin_meur": 642.67,
+      "stock_meur": 820.49
+    },
+    {
+      "mois": "2026-01",
+      "sellout_meur": 474.93,
+      "sellin_meur": 46.589999999999996,
+      "stock_meur": 392.15999999999997
+    },
+    {
+      "mois": "2026-02",
+      "sellout_meur": 549.8000000000001,
+      "sellin_meur": 602.08,
+      "stock_meur": 444.43
+    },
+    {
+      "mois": "2026-03",
+      "sellout_meur": 484.46,
+      "sellin_meur": 599.47,
+      "stock_meur": 559.42
+    },
+    {
+      "mois": "2026-04",
+      "sellout_meur": 495.87,
+      "sellin_meur": 509.04,
+      "stock_meur": 572.6
+    },
+    {
+      "mois": "2026-05",
+      "sellout_meur": 565.31,
+      "sellin_meur": 645.47,
+      "stock_meur": 652.8
+    },
+    {
+      "mois": "2026-06",
+      "sellout_meur": 526.61,
+      "sellin_meur": 481.92,
+      "stock_meur": 608.1
+    }
+  ],
+  "quarterly_total": [
+    {
+      "quarter": "2024Q3",
+      "sellout_meur": 1508.44,
+      "sellin_meur": 1601.8,
+      "stock_meur": 704.66,
+      "growth_qoq_pct": NaN,
+      "growth_yoy_pct": NaN,
+      "rolling_12m_meur": NaN,
+      "couverture_semaines_moy": 6.1
+    },
+    {
+      "quarter": "2024Q4",
+      "sellout_meur": 1748.46,
+      "sellin_meur": 1832.09,
+      "stock_meur": 788.25,
+      "growth_qoq_pct": 15.911802922224272,
+      "growth_yoy_pct": NaN,
+      "rolling_12m_meur": NaN,
+      "couverture_semaines_moy": 5.9
+    },
+    {
+      "quarter": "2025Q1",
+      "sellout_meur": 1478.0,
+      "sellin_meur": 1248.23,
+      "stock_meur": 558.49,
+      "growth_qoq_pct": -15.468469395925554,
+      "growth_yoy_pct": NaN,
+      "rolling_12m_meur": NaN,
+      "couverture_semaines_moy": 4.9
+    },
+    {
+      "quarter": "2025Q2",
+      "sellout_meur": 1572.33,
+      "sellin_meur": 1610.46,
+      "stock_meur": 596.62,
+      "growth_qoq_pct": 6.3822733423545275,
+      "growth_yoy_pct": NaN,
+      "rolling_12m_meur": 6307.23,
+      "couverture_semaines_moy": 4.9
+    },
+    {
+      "quarter": "2025Q3",
+      "sellout_meur": 1515.49,
+      "sellin_meur": 1630.36,
+      "stock_meur": 711.47,
+      "growth_qoq_pct": -3.6150172037676565,
+      "growth_yoy_pct": 0.4673702633184007,
+      "rolling_12m_meur": 6314.28,
+      "couverture_semaines_moy": 6.1
+    },
+    {
+      "quarter": "2025Q4",
+      "sellout_meur": 1808.47,
+      "sellin_meur": 1917.54,
+      "stock_meur": 820.49,
+      "growth_qoq_pct": 19.332361150518974,
+      "growth_yoy_pct": 3.4321631607242997,
+      "rolling_12m_meur": 6374.289999999999,
+      "couverture_semaines_moy": 5.9
+    },
+    {
+      "quarter": "2026Q1",
+      "sellout_meur": 1509.19,
+      "sellin_meur": 1248.14,
+      "stock_meur": 559.42,
+      "growth_qoq_pct": -16.548795390578775,
+      "growth_yoy_pct": 2.1102841677943296,
+      "rolling_12m_meur": 6405.48,
+      "couverture_semaines_moy": 4.8
+    },
+    {
+      "quarter": "2026Q2",
+      "sellout_meur": 1587.79,
+      "sellin_meur": 1636.43,
+      "stock_meur": 608.1,
+      "growth_qoq_pct": 5.2080917578303465,
+      "growth_yoy_pct": 0.9832541514821935,
+      "rolling_12m_meur": 6420.94,
+      "couverture_semaines_moy": 5.0
+    }
+  ],
+  "forecasts_by_region": {
+    "France": {
+      "history_quarters": [
+        "2024Q3",
+        "2024Q4",
+        "2025Q1",
+        "2025Q2",
+        "2025Q3",
+        "2025Q4",
+        "2026Q1",
+        "2026Q2"
+      ],
+      "history_values": [
+        150.8,
+        176.7,
+        150.2,
+        156.4,
+        149.2,
+        179.0,
+        149.2,
+        156.9
+      ],
+      "forecast_values": [
+        158.0,
+        157.9
+      ],
+      "forecast_ci90_halfwidth": 18.9,
+      "backtest_avg_mape_pct": 9.1
+    },
+    "Etats-Unis": {
+      "history_quarters": [
+        "2024Q3",
+        "2024Q4",
+        "2025Q1",
+        "2025Q2",
+        "2025Q3",
+        "2025Q4",
+        "2026Q1",
+        "2026Q2"
+      ],
+      "history_values": [
+        379.1,
+        438.6,
+        369.5,
+        397.6,
+        378.7,
+        454.8,
+        375.6,
+        398.6
+      ],
+      "forecast_values": [
+        401.9,
+        402.2
+      ],
+      "forecast_ci90_halfwidth": 48.2,
+      "backtest_avg_mape_pct": 9.3
+    },
+    "Chine": {
+      "history_quarters": [
+        "2024Q3",
+        "2024Q4",
+        "2025Q1",
+        "2025Q2",
+        "2025Q3",
+        "2025Q4",
+        "2026Q1",
+        "2026Q2"
+      ],
+      "history_values": [
+        320.1,
+        373.9,
+        316.0,
+        338.0,
+        324.5,
+        396.0,
+        337.0,
+        353.3
+      ],
+      "forecast_values": [
+        358.1,
+        360.4
+      ],
+      "forecast_ci90_halfwidth": 41.3,
+      "backtest_avg_mape_pct": 10.1
+    },
+    "Reste du Monde": {
+      "history_quarters": [
+        "2024Q3",
+        "2024Q4",
+        "2025Q1",
+        "2025Q2",
+        "2025Q3",
+        "2025Q4",
+        "2026Q1",
+        "2026Q2"
+      ],
+      "history_values": [
+        658.4,
+        759.2,
+        642.3,
+        680.3,
+        663.1,
+        778.7,
+        647.4,
+        678.9
+      ],
+      "forecast_values": [
+        689.3,
+        689.3
+      ],
+      "forecast_ci90_halfwidth": 79.4,
+      "backtest_avg_mape_pct": 9.0
+    }
+  },
+  "backtests_by_region": {
+    "France": {
+      "splits": [
+        {
+          "origin_quarter_index": 4,
+          "mape_pct": 9.0,
+          "rmse_meur": 17.5
+        },
+        {
+          "origin_quarter_index": 5,
+          "mape_pct": 8.8,
+          "rmse_meur": 20.7
+        },
+        {
+          "origin_quarter_index": 6,
+          "mape_pct": 9.6,
+          "rmse_meur": 14.9
+        }
+      ],
+      "avg_mape_pct": 9.1,
+      "avg_rmse_meur": 17.7
+    },
+    "Etats-Unis": {
+      "splits": [
+        {
+          "origin_quarter_index": 4,
+          "mape_pct": 8.8,
+          "rmse_meur": 45.9
+        },
+        {
+          "origin_quarter_index": 5,
+          "mape_pct": 8.3,
+          "rmse_meur": 52.7
+        },
+        {
+          "origin_quarter_index": 6,
+          "mape_pct": 10.8,
+          "rmse_meur": 42.4
+        }
+      ],
+      "avg_mape_pct": 9.3,
+      "avg_rmse_meur": 47.0
+    },
+    "Chine": {
+      "splits": [
+        {
+          "origin_quarter_index": 4,
+          "mape_pct": 9.4,
+          "rmse_meur": 42.1
+        },
+        {
+          "origin_quarter_index": 5,
+          "mape_pct": 10.7,
+          "rmse_meur": 50.0
+        },
+        {
+          "origin_quarter_index": 6,
+          "mape_pct": 10.2,
+          "rmse_meur": 35.3
+        }
+      ],
+      "avg_mape_pct": 10.1,
+      "avg_rmse_meur": 42.5
+    },
+    "Reste du Monde": {
+      "splits": [
+        {
+          "origin_quarter_index": 4,
+          "mape_pct": 7.8,
+          "rmse_meur": 79.0
+        },
+        {
+          "origin_quarter_index": 5,
+          "mape_pct": 8.1,
+          "rmse_meur": 84.0
+        },
+        {
+          "origin_quarter_index": 6,
+          "mape_pct": 11.1,
+          "rmse_meur": 74.3
+        }
+      ],
+      "avg_mape_pct": 9.0,
+      "avg_rmse_meur": 79.1
+    }
+  },
+  "china_scenarios_quarterly": {
+    "bearish": {
+      "quarters": [
+        "2024Q3",
+        "2024Q4",
+        "2025Q1",
+        "2025Q2",
+        "2025Q3",
+        "2025Q4",
+        "2026Q1",
+        "2026Q2"
+      ],
+      "values": [
+        320.1,
+        373.9,
+        316.0,
+        338.0,
+        324.5,
+        391.2,
+        327.6,
+        337.8
+      ]
+    },
+    "base": {
+      "quarters": [
+        "2024Q3",
+        "2024Q4",
+        "2025Q1",
+        "2025Q2",
+        "2025Q3",
+        "2025Q4",
+        "2026Q1",
+        "2026Q2"
+      ],
+      "values": [
+        320.1,
+        373.9,
+        316.0,
+        338.0,
+        324.5,
+        396.0,
+        337.0,
+        353.3
+      ]
+    },
+    "bullish": {
+      "quarters": [
+        "2024Q3",
+        "2024Q4",
+        "2025Q1",
+        "2025Q2",
+        "2025Q3",
+        "2025Q4",
+        "2026Q1",
+        "2026Q2"
+      ],
+      "values": [
+        320.1,
+        373.9,
+        316.0,
+        338.0,
+        324.5,
+        402.6,
+        350.1,
+        375.0
+      ]
+    }
+  },
+  "kpis": {
+    "sellout_total_2025_meur": 6374.3,
+    "sellout_total_2026h1_meur": 3097.0,
+    "china_growth_yoy_pct": 4.5,
+    "global_growth_yoy_pct": 1.0,
+    "mix_ligne_produit_pct": {
+      "Haute Parfumerie": 10.0,
+      "Maquillage": 23.0,
+      "Parfum Femme": 40.2,
+      "Parfum Homme": 26.9
+    },
+    "couverture_semaines_actuelle": 5.0
+  }
+}
