@@ -2,7 +2,7 @@
 
 Projet portfolio construit pour une candidature **Business Analyst — Business Développement, Parfums Christian Dior (LVMH)**.
 
-Objectif : démontrer, sur un cas concret et documenté, les compétences demandées dans la fiche de poste — récupération et harmonisation de données sell-out/sell-in, construction d'hypothèses de croissance et de projections de marché, analyses ad hoc, recommandations stratégiques — **avec un niveau d'exigence méthodologique assumé** : ce qui est réel est cité, ce qui est simulé est assumé comme tel, et les limites statistiques sont mesurées plutôt que cachées.
+Objectif : récupération et harmonisation de données sell-out/sell-in, construction d'hypothèses de croissance et de projections de marché, analyses ad hoc, recommandations stratégiques 
 
 ## ⚠️ Transparence sur les données (à lire en premier)
 
@@ -35,7 +35,7 @@ dior-market-intelligence/
 ├── dashboard/
 │   └── index.html                      # dashboard interactif (ouvrir dans un navigateur)
 ├── note/
-│   └── note_flash_strategique.docx     # note stratégique au format Comex
+│   └── note_flash_strategique.docx     # note stratégique 
 ├── requirements.txt
 └── README.md
 ```
