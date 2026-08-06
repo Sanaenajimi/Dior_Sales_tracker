@@ -5,8 +5,7 @@ OBJECTIF
 --------
 Circana / Beauty Research (les panels sell-out réels utilisés en interne par
 Parfums Christian Dior) sont des donnees proprietaires, payantes, non
-accessibles publiquement. Pour reproduire fidelement la mission n1 du poste
-("recuperer, traiter, harmoniser la donnee sell-out/sell-in"), on construit ici
+accessibles publiquement. je construits ici
 un jeu de donnees mensuel PROXY :
 
   - calibre sur les ordres de grandeur publics Dior/LVMH (cf.
@@ -19,10 +18,7 @@ un jeu de donnees mensuel PROXY :
   - avec un vrai modele de stock (stock cible x semaines de couverture) pour
     deriver le sell-in a partir du sell-out, au lieu d'un simple ratio
 
-Ce fichier ne doit JAMAIS etre presente comme des donnees Circana reelles.
-Toute utilisation en entretien doit preciser : "proxy calibre sur des ordres
-de grandeur publics, methodologie transparente, a remplacer par le vrai flux
-Circana/Beauty Research en production."
+Ce fichier ne represente pas des donnees Circana reelles.
 """
 
 from pathlib import Path
@@ -97,9 +93,7 @@ def fashion_leather_drag(month):
 #   SellIn_t = SellOut_t + (Stock_cible_t - Stock_(t-1))
 #
 # La couverture cible (en semaines de sell-out a venir) varie dans l'annee :
-# les distributeurs sur-couvrent avant Noel (construction de stock) et
-# sous-couvrent en janvier-fevrier (destockage post-fetes) -- exactement la
-# mecanique qu'on chercherait a lire dans un vrai reporting retail.
+# les distributeurs sur-couvrent avant Noel (construction de stock) et sous-couvrent en janvier-fevrier (destockage post-fetes) -- exactement la  mecanique qu'on chercherait a lire dans un vrai reporting retail.
 # ----------------------------------------------------------------------------
 def target_coverage_weeks(month):
     if month.month in (9, 10, 11):
