@@ -25,8 +25,9 @@ import json
 import numpy as np
 import pandas as pd
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
+from pathlib import Path
 
-DATA_DIR = "/home/claude/dior-market-intelligence/data"
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 df = pd.read_csv(f"{DATA_DIR}/monthly_proxy_sellout.csv")
 df["date"] = pd.to_datetime(df["mois"])
@@ -115,9 +116,7 @@ for region in df["region"].unique():
 
 # ----------------------------------------------------------------------------
 # CHINE : 3 scenarios explicites plutot qu'un pourcentage arbitraire.
-# On rejoue la construction du sell-out Chine sous les 3 hypotheses
-# (bearish/base/bullish) pour montrer la sensibilite du forecast au choix
-# d'hypothese -- c'est l'outil de decision demande, pas une prediction unique.
+# On rejoue la construction du sell-out Chine sous les 3 hypotheses (bearish/base/bullish) pour montrer la sensibilite du forecast au choix  d'hypothese -- c'est l'outil de decision demande, pas une prediction unique.
 # Les amplitudes doivent rester identiques a celles de 01_build_proxy_data.py.
 # ----------------------------------------------------------------------------
 CHINA_SCENARIOS = {"bearish": 0.00, "base": 0.05, "bullish": 0.12}
