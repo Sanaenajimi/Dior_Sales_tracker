@@ -25,8 +25,15 @@ de grandeur publics, methodologie transparente, a remplacer par le vrai flux
 Circana/Beauty Research en production."
 """
 
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
+
+# Chemin relatif : src/ -> ../data (fonctionne quel que soit l'endroit d'où
+# le script est lancé, sur n'importe quelle machine qui clone le repo)
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 np.random.seed(42)
 
@@ -135,7 +142,7 @@ for region in REGIONS:
             stock_prev = stock_t
 
 df = pd.DataFrame(rows)
-df.to_csv("/home/claude/dior-market-intelligence/data/monthly_proxy_sellout.csv", index=False)
+df.to_csv(DATA_DIR / "monthly_proxy_sellout.csv", index=False)
 print(df.shape)
 print(df.head(10))
 print("\nTotal sellout 2025 (proxy, M EUR):", df[df["mois"].str.startswith("2025")]["sellout_meur"].sum().round(1))
